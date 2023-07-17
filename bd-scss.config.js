@@ -9,6 +9,6 @@ export default {
 		invite: 'ZHthyCw',
 		authorId: '174868361040232448'
 	},
-	baseImport: 'https://discordstyles.github.io/Fluent/Fluent.css',
+	baseImport: 'https://raw.githubusercontent.com/minnieoo/Fluent/main/minnie-fluent.css',
 	addons: [['src/addons/_icons.scss', 'dist/Icons.css']]
 };
